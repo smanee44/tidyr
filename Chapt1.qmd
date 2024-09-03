@@ -1,0 +1,22 @@
+---
+title: "R4DS-Chapt1"
+author: "Sarena"
+format:
+  html:
+    toc: true
+editor: visual
+---
+https://r4ds.had.co.nz/introduction.html
+
+## What I think I will learn
+
+* how to use ggplot to make a chart
+
+## load packages
+
+to insert a code chunk hit control alt i
+
+```{r}
+library(tidyverse)
+```
+
