@@ -4,7 +4,7 @@ author: "Sarena"
 format:
   html:
     toc: true
-editor: visual
+editor: source
 ---
 
 https://r4ds.had.co.nz/introduction.html
@@ -29,11 +29,35 @@ library(tidyverse)
 
 -   model: used to visualize and find answers to questions
 
+<br>
+<style>
+div.blue {background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+**Randy's comments on this section**
+
+* What is tidy data?  Please show me an example.  Also, what is 'messy' data?
+* What does it mean to 'wrangle' data?
+* I will be asking you about transforming :)
+<br>
+
 ## lack of programming experience help
 
 -   adjacent read to help is hands on programming with r by Garrett
 
-## need the following to ru code for this book
+<br>
+<style>
+div.blue {background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+**Randy's comments on this section**
+
+* I can't find that book.  Please insert link.
+* List at least 5 other ways to get help
+* What the is a 'reprex'?  Why is it important?
+<br>
+
+## need the following to run code for this book
 
 -   R
 -   RStudio
@@ -59,3 +83,19 @@ library(tidyverse)
 -   use comments
 -   delete unneeded junk from code
 -   solve problems before they occur
+
+
+<br>
+<style>
+div.blue {background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+**Randy's comments on this section**
+
+* Your markdown is nice and clean!
+* Nice work on the 'make your code more readable
+* You got this
+* If you wanted to hide the code, but not the results of the code to a reader, how would you do that?
+* What is a package?  
+* What the heck is a kilometer?
+<br>
